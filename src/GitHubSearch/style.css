@@ -1,0 +1,26 @@
+#image{
+    border-radius: 100%;
+}
+
+#enter{
+    margin-left: 1000px;
+    margin-top: 50px;
+    padding: 10px 70px;
+}
+#btn{
+    padding:  10px;
+    margin-left: 20px;
+    background-color: rgb(7, 219, 7);
+    border: none;
+    color: white;
+    font-weight: 800;
+    font-size: 17px;
+}
+#no{
+    margin-left: 1000px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.top{
+    margin-left: 500px;
+}
